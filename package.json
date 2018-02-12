@@ -1,0 +1,27 @@
+{
+  "name": "midtermapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qdoyonnas/WebApi_Midterm.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qdoyonnas/WebApi_Midterm/issues"
+  },
+  "homepage": "https://github.com/qdoyonnas/WebApi_Midterm#readme",
+  "dependencies": {
+    "ejs": "^2.5.7",
+    "express": "^4.16.2",
+    "forecast.io": "0.0.11",
+    "morgan": "^1.9.0",
+    "zippity-do-dah": "0.0.3"
+  }
+}
